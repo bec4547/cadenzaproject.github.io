@@ -15,6 +15,10 @@
         <summary type="html"><![CDATA[Welcome to the new Cadenza blog. We will be using this blog to post regular updates about our forthcoming machine learning challenges and workshops, as well as posts discussing the tools and techniques that we are using in our baseline systems.]]></summary>
         <content type="html"><![CDATA[<p>Welcome to the new Cadenza blog. We will be using this blog to post regular updates about our forthcoming machine learning challenges and workshops, as well as posts discussing the tools and techniques that we are using in our baseline systems.</p>]]></content>
         <author>
+            <name>Trevor Cox</name>
+            <uri>http://trevorcox.me/trevor-cox</uri>
+        </author>
+        <author>
             <name>Jon Barker</name>
             <uri>http://staffwww.dcs.shef.ac.uk/people/J.Barker/</uri>
         </author>
